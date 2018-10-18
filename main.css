@@ -1,0 +1,128 @@
+.bg{
+    background-color: #405d9b;
+}
+
+.button{  padding: 15px 25px;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #38589b;
+    border: none;
+    border-radius: 0px;
+   
+  }
+  
+  .button:hover {background-color:#5475bb; }
+  
+  
+
+    .button2{
+        padding: 15px 25px;
+    font-size: 40px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #405d9b;
+    border: none;
+    border-radius: 0px;
+   
+  }
+  
+   
+    .grad {
+        background-image: linear-gradient(white,#dadfec);
+    }
+   .style{
+       color: white;
+   }
+   .police{
+       font-size: 12px;
+
+   }
+   .arial{
+       font-style: arial; 
+   }
+    .left{
+    text-align: justify;
+    text-justify: inter-word;
+    }
+} 
+.taille {
+    height: 82px;
+    min-width: 980px;
+
+}
+.size{
+    font-size: 14.4px;
+}
+
+.size1{
+    font-size: 18px;
+}
+
+
+
+.ligne{
+
+        line-height: 1.6;
+
+}
+.button3{  padding: 12px 40px;
+    font-size: 19px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color:#609F43;
+    border: none;
+    border-radius: 5px;
+   
+  }
+  
+  .button3:hover {background-color:#497a32; }
+
+
+   
+
+.p{
+    margin-top:20px;
+}
+
+
+.p1{
+    margin-top:-63px;
+
+}
+
+alin{
+    text-align: left;
+}
+.p2 {
+
+    margin-top:-80px;
+
+}
+.p3{
+
+    margin-top:-20px;  
+}
+.center{
+    text-align: center;
+}
+
+.line{
+    line-height: normal;
+}
+.champ{
+    height: 29px;
+    width: 200px;
+    border-radius: 5px;
+}
+.champ1{
+    height: 29px;
+    width: 410px;
+    border-radius: 5px;
+}
